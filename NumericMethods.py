@@ -358,5 +358,3 @@ plt.show()
 # plt.legend([rf'$k = \lambda h^2$, slope: {np.polyfit(-np.log(errs[0]), -np.log(errs[1]), 1)[0]:.5f}'])
 # plt.title('Heat equation using the LF method')
 # plt.show()
-
-
